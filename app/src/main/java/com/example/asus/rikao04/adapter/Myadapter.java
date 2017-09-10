@@ -19,8 +19,8 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * 创建时间  2017/9/5 8:32
- * 创建人    gaozhijie
+ * 创建时间  2013/2/5 8:32
+ * 创建人    
  * 类描述
  */
 public class Myadapter extends RecyclerView.Adapter<Myadapter.ViewHolder> {
